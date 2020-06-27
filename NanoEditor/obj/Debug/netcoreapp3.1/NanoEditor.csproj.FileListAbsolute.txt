@@ -1,0 +1,13 @@
+D:\Projects\csharp\NanoEditor\NanoEditor\bin\Debug\netcoreapp3.1\NanoEditor.exe
+D:\Projects\csharp\NanoEditor\NanoEditor\bin\Debug\netcoreapp3.1\NanoEditor.deps.json
+D:\Projects\csharp\NanoEditor\NanoEditor\bin\Debug\netcoreapp3.1\NanoEditor.runtimeconfig.json
+D:\Projects\csharp\NanoEditor\NanoEditor\bin\Debug\netcoreapp3.1\NanoEditor.runtimeconfig.dev.json
+D:\Projects\csharp\NanoEditor\NanoEditor\bin\Debug\netcoreapp3.1\NanoEditor.dll
+D:\Projects\csharp\NanoEditor\NanoEditor\bin\Debug\netcoreapp3.1\NanoEditor.pdb
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.csprojAssemblyReference.cache
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.AssemblyInfoInputs.cache
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.AssemblyInfo.cs
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.dll
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.pdb
+D:\Projects\csharp\NanoEditor\NanoEditor\obj\Debug\netcoreapp3.1\NanoEditor.genruntimeconfig.cache
